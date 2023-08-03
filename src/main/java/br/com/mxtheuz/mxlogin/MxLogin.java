@@ -14,7 +14,6 @@ import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerMoveEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 import org.bukkit.plugin.java.JavaPlugin;
-
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -24,7 +23,6 @@ import java.util.Map;
 import java.util.UUID;
 
 public class MxLogin extends JavaPlugin implements Listener {
-
     private Map<UUID, String> registeredPlayers = new HashMap<>();
     private Map<UUID, Boolean> loggedInPlayers = new HashMap<>();
 
