@@ -34,3 +34,7 @@ Contributions to the MxLogin plugin are welcome! If you encounter any issues or 
 ## License
 
 This plugin is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. See the [LICENSE](./LICENSE) file for more details.
+
+<hr>
+
+Could you follow me? ❤
